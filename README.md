@@ -1,3 +1,1 @@
-This Pokedex web app is a fun weekend project, deployed here: https://damian-pokedex.streamlit.app/
-
-Have fun!
+This is the official Squad Dex for the Pixelmon server SquirtleSquadMC, deployed here: https://squaddex.streamlit.app/
